@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+# tmp files
+*~
+*.swp
+
+# python
+*.pyc
+
+# java
+*.class
