@@ -36,3 +36,4 @@
 
 # java
 *.class
+.DS_Store
